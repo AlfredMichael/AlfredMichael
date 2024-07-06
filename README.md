@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlfredMichael, a passionate student and aspiring web/application developer.
-- 🌱 I’m currently exploring the fascinating world of functional programming in PHP and Java, diving into the realm of Kotlin, and honing my skills in CodeIgniter, Figma, and other exciting technologies. 🚀
-- 💼 As a student at TUS (Technological University of Shannon), I'm eagerly seeking opportunities for internships to gain hands-on experience and contribute to real-world projects. Let's connect and discuss possibilities! �
-- 📫 How to reach me? Feel free to drop me a message right here on GitHub or by email at K00290602@student.tus.ie
+- Hi, I'm Alfred Michael🙂, a Proud Nigerian 🇳🇬 International Student in my final year of Internet Systems Development at the Technological University Of Shannon🏢.
+- I'm currently working on building assistive devices for visually impaired people leveraging computer vision.
+- If you have any questions or advice, feel free to reach out to me at *K00290602@student.tus.ie*. Thanks!
 
 <!---
 AlfredMichael/AlfredMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
