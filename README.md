@@ -1,4 +1,4 @@
-- Hi, I'm Alfred Michael🙂, a Proud Nigerian International Student in my final year of Internet Systems Development at the Technological University Of Shannon🏢.
+- Hi, I'm Alfred Michael🙂, a Proud Nigerian <a href="https://pngtree.com/freepng/nigeria-flag-icon-png-gold-border_7672419.html" style ="float:left;"> <img src="—Pngtree—nigeria flag icon png gold_7672419.png" width="25" alt="Nigerian Flag"> </a> International Student in my final year of Internet Systems Development at the Technological University Of Shannon🏢.
 - I'm currently working on building assistive devices for visually impaired people leveraging computer vision.
 - If you have any questions or advice, feel free to reach out to me at *K00290602@student.tus.ie*. Thanks!
 
